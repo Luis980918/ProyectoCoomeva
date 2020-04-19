@@ -14,8 +14,6 @@ public class ValidatorConstants {
     public static final int MAX_SIZE_DIRECCION=24;
     public static final int MIN_SIZE_SERVICIO=5;
     public static final int MAX_SIZE_SERVICIO=20;
-    public static final int MIN_SIZE_TSERVICIO=5;
-    public static final int MAX_SIZE_TSERVICIO=20;
     public static final int MIN_SIZE_SEDES=5;
     public static final int MAX_SIZE_SEDES=30;
     public static final int MIN_SIZE_NAME = 5;
@@ -29,7 +27,6 @@ public class ValidatorConstants {
     public static final String BAD_SIZE_DIRECCION_MESSSAGE = "Direccion must be between 5 and 24 characters";
     public static final String BAD_SIZE_PRESTADOR_MESSSAGE = "Prestador must be between 5 and 20 characters";
     public static final String BAD_SIZE_SERVICIO_MESSSAGE = "Servicio must be between 5 and 20 characters";
-    public static final String BAD_SIZE_TSERVICIO_MESSSAGE = "Type Servicio must be between 5 and 20 characters";
     public static final String BAD_SIZE_SEDES_MESSSAGE = "Sedes must be between 15 and 5 characters";
     public static final String BAD_SIZE_PASSWORD_MESSAGE = "password must be between 8 and 15 characters";
     public static final String BAD_SIZE_NAME_MESSSAGE = "name must be between 5 and 20 characters";
